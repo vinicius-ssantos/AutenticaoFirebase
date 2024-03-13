@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552982099736",
+    "project_id": "ifood-3c18c",
+    "storage_bucket": "ifood-3c18c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552982099736:android:536201d45526b2a958d06d",
+        "android_client_info": {
+          "package_name": "com.viniciussantos.authenticationsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt08Hw8N6k207xZBsz_PTcipzJaXW2oEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
